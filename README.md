@@ -23,7 +23,7 @@ This mods requires:
 <!--
 This should be a bullet point list of everything the mod does
 -->
-This mod allows you to set a multiplier on experience gained whenever you gain any skills. The settings allow you to set the mult for each individual skill
+This mod allows you to set a multiplier on experience gained whenever you gain any skills. The settings allow you to set the mult for each individual skill. If you want more control, I suggest you try [Skill Adjustment](https://github.com/Ezinw/TLD_Skill-Adjustment)
 
 # Install Instructions
 <!--
